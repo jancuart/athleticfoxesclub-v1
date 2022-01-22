@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x26aE2d6f3E3dDAbD1cab78580707eA9aCf654420",
+  "SCAN_LINK": "https://polygonscan.com/token/0x26aE2d6f3E3dDAbD1cab78580707eA9aCf654420",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Athletic Foxes Club",
+  "SYMBOL": "AFC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/athleticfoxesclub",
+  "SHOW_BACKGROUND": true
+}
